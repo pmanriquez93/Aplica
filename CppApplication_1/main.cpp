@@ -13,7 +13,8 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<"Que cancer pablito";
+    cout<<"Que cancer pablito"<<endl;
+    cout<<"Tienes que seguir todos los pasos, inclusive los botones px palbirrix"<<endl;
     return 0;
 }
 
